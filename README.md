@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [vue-project](git@github.com:Joyeuse-Irambona/vue_project.git)
 
-- 🌱 I’m currently working on e-learng platform**
+- 🌱 I’m currently working on e-learning platform**
 
-- 💬 Ask me about **vue,react,js,css,html,php,tailwind**
+- 💬 Ask me about **vue,react,js,css,html,php,tailwind,figma**
 
 - 📫 How to reach me **irambonajoy@gmail.com**
 
